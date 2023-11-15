@@ -60,7 +60,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <h2>Đăng ký</h2>
         <div class="">
 
-            <label for="">Tên đăng ký (*)</label>
+            <label for="">Tên đăng nhập,123433444(*)</label>
             <br>
             <input name="username" type="text">
             <p style="padding: 0;margin: 0; color: red; font-size: 12px; font-style: italic;">
